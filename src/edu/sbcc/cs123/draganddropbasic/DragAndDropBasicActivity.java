@@ -9,8 +9,8 @@ import android.widget.*;
 
 @SuppressWarnings("deprecation")
 public class DragAndDropBasicActivity extends Activity implements OnTouchListener {
-	private ImageView letterView;
-	private ImageView emptyLetterView;
+	private ImageView letterView;						// The letter that the user drags.
+	private ImageView emptyLetterView;			
 	private AbsoluteLayout mainLayout;
 
 
