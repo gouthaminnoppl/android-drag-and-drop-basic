@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<AbsoluteLayout android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/mainLayout">
+<ImageView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/emptyLetterView" android:src="@drawable/r_empty" android:layout_x="200px" android:layout_y="300px"></ImageView>
+<ImageView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/letterView" android:src="@drawable/r_filled" ></ImageView>
+</AbsoluteLayout>
