@@ -1,0 +1,1 @@
+Simple example of dragging and dropping an ImageView in Android
